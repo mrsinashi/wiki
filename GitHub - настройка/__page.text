@@ -1,0 +1,5 @@
+!! GitHub - настройка
+
+'''user@debian:'''git config --global user.name "mrsinashi"
+'''user@debian:'''git config --global user.email ignatiusferum@gmail.com
+'''user@debian:'''git config --global init.defaultBranch main

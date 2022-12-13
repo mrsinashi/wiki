@@ -1,0 +1,15 @@
+!! GitHub - команды
+
+git config --global core.autocrlf
+git config --global 
+git add .
+git commit -m 'message'
+git remote
+git branch
+git pull
+git push
+
+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
+ssh-keygen -t rsa -b 4096 -C "ignatiusferum@gmail.com"
+sudo cat /home/user/.ssh/id_rsa.pub | xclip -selection clipboard
+curl -u 'mrsinashi' https://api.github.com/user/repos -d '{"name": "dotfiles-linux"}'
